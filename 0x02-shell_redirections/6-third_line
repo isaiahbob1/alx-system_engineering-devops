@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -3 iacta
+cat iacta.txt | head -3 | tail -1
